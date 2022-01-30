@@ -1,6 +1,6 @@
 //Universidad Tecnologica Metropolitana
 //Desarrollo Movil Multiplataforma
-//MNaestro: Joel Ivan Chuc Uc
+//Maestro: Joel Ivan Chuc Uc
 //Actividad 2 - Ejercicio 3
 //Alumno: Jonathan Missael Sabido Reynoso
 //5 C Parcial 1
